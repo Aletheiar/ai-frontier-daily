@@ -1,0 +1,8 @@
+# Source snapshots, downloaded papers, and local verification artifacts.
+/research/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.tmp
